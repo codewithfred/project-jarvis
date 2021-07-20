@@ -1,0 +1,6 @@
+pipwin
+# habis install pipwin run pipwin install pyaudio
+SpeechRecognition
+pyttsx3==2.71
+qrcode[pil]
+pywhatkit
